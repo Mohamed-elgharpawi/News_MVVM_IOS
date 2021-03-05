@@ -1,0 +1,6 @@
+framework module Pods_GoodNews_MVVM_ {
+  umbrella header "Pods-GoodNews(MVVM)-umbrella.h"
+
+  export *
+  module * { export * }
+}
